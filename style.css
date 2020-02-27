@@ -37,7 +37,7 @@ body {
 /* start landing page */
 
 .home-inner {
-  background-image: url(img/computers.png);
+  background-color: rgb(250, 206, 213);
 }
 
 .caption {
