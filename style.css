@@ -6,7 +6,7 @@ body {
   color: #1ebba3;
 }
 
-.offset: before {
+.offset:before {
   display: block;
   content: "";
   height: 4rem;
@@ -172,5 +172,4 @@ Large (lg) devices (desktops, 992px and up)
 Extra (xl) large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) { ... }
 
-=============*/
-  ;;
+=============*/;
